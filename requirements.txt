@@ -1,0 +1,31 @@
+# Core Dependencies
+# google-generativeai==0.4.1
+google-generativeai==0.2.0 # this is the latest version as of October 2023
+# Note: If you face issues with the above version, you can try the following:   
+# pip install --upgrade google-generativeai
+# OR 
+# pip install -U -q "google-genai"
+
+google 
+python-dotenv==1.0.1
+
+# Text-to-Speech
+gTTS==2.5.1
+
+# Image Processing
+Pillow==10.3.0
+
+# Video Creation (image + audio)
+moviepy==1.0.3
+
+# Instagram Automation
+instagrapi==1.17.4
+
+# Scheduling
+schedule==1.2.1
+
+# Logging (optional)
+loguru==0.7.2
+
+# Utility
+requests==2.31.0

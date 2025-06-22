@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment
+venv/
+.env
+
+# Output folders
+outputs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
