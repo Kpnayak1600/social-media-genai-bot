@@ -83,7 +83,7 @@ multiagent_social_poster/
 │   ├── images/
 │   ├── audios/
 │   ├── posts/
-│  
+│
 │
 ├── main.py
 ├── requirements.txt
@@ -115,9 +115,17 @@ pip install -r requirements.txt
 
 ### 🔐 Environment Variables
     Create a .env file in the root with the following keys:
-    GOOGLE_API_KEY=your_gemini_api_key
+    # Google Gemini API
+    GOOGLE_API_KEY=your_google_gemini_api_key_here
+    # Instagram Credentials
     INSTAGRAM_USERNAME=your_instagram_username
     INSTAGRAM_PASSWORD=your_instagram_password
+    # YouTube OAuth Credentials (path to your JSON file)
+    YOUTUBE_CLIENT_SECRET_FILE=path/to/client_secret.json
+    # facebook Credentials (used by facebook-sdk)
+    FACEBOOK_ACCESS_TOKEN = your_facebook_token
+    FACEBOOK_PAGE_ID = your_facebook_page_id
+
 
 ### ▶️ How to Run
     First Activate virtual Enviornment

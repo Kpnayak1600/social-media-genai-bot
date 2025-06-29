@@ -34,7 +34,7 @@ INSTAGRAM_PASSWORD = os.getenv("INSTAGRAM_PASSWORD")
 
 # === FACEBOOK CREDENTIALS ===
 FACEBOOK_ACCESS_TOKEN = os.getenv("FACEBOOK_ACCESS")
-FACEBOOK_PAGE_ID = os.getenv("facebook_page_id")
+FACEBOOK_PAGE_ID = os.getenv("FACEBOOK_PAGE_ID")
 
 # === TIMING CONFIGS (as integers for formatting and scheduling) ===
 DAILY_POST_HOUR = 22  # 10 PM
