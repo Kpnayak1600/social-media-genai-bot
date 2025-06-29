@@ -14,7 +14,7 @@ def load_prompt_template() -> str:
     with open(PROMPT_PATH_CONTENT, "r", encoding="utf-8") as f:
         return f.read()
 
-def generate_content(topic: str = "Gayatri Mantra") -> str:
+def generate_content() -> str:
     """
     Generates text content using Gemini API based on a topic.
     
@@ -24,11 +24,11 @@ def generate_content(topic: str = "Gayatri Mantra") -> str:
     Returns:
         str: Generated content.
     """
-    print(f"[📘] Generating content on topic: {topic}")
+    print(f"[📘] Generating content on ")
 
     # Load and format the prompt
     prompt_template = load_prompt_template()
-    formatted_prompt = prompt_template.format(topic=topic)
+    formatted_prompt = prompt_template.format()
 
     # Generate content using Gemini API
     content = generate_gemini_content(formatted_prompt)

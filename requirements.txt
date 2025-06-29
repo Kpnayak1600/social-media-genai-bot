@@ -29,3 +29,14 @@ loguru==0.7.2
 
 # Utility
 requests==2.31.0
+
+# YouTube API (OAuth + Upload)
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.122.0
+
+# ------------------------
+# Facebook Graph API
+# ------------------------
+# (Uses requests; no official SDK needed)
+

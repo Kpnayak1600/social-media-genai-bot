@@ -1,2 +1,23 @@
+Randomly select a Hindu deity from: Lord Shiva, Lord Vishnu, Lord Krishna, Goddess Durga, Lord Ganesha.
 
-create Image of Lord Shiva
+Create a vibrant and divine 2D animation-style illustration of the chosen deity. Make the image spiritually uplifting, visually rich, and artistically detailed — similar to sacred posters or scenes from animated Indian mythological shows.
+
+Include:
+- Traditional attire, glowing ornaments, radiant divine aura.
+- Symbolic features based on the selected deity:
+    - Shiva: trident, crescent moon, snake, Himalayas, tiger skin.
+    - Vishnu: chakra, conch, Garuda, golden crown, cosmic ocean.
+    - Krishna: flute, peacock feather, cows, Yamuna river, moonlight.
+    - Durga: tiger/lion, multiple arms with weapons, slaying a demon.
+    - Ganesha: modak, mouse, lotus, under a banyan tree or in a mandir.
+
+Background:
+- Use a divine setting — glowing clouds, full moon, sparkling stars, riverbanks, celestial mountains.
+- Add supportive animals or birds like swans, cows, lions, peacocks.
+
+Style:
+- High-quality, richly colored 2D animation.
+- Use divine realism with a soft glowing palette.
+- Add atmospheric lighting and subtle magical elements like sparkles or aura rings.
+
+Make each image look unique and soul-touching.

@@ -78,12 +78,12 @@ multiagent_social_poster/
 │   └── prompts/
 │       ├── content_prompt.txt
 │       └── caption_prompt.txt
-│
+│       └── image_prompt.txt
 ├── outputs/
 │   ├── images/
 │   ├── audios/
 │   ├── posts/
-│   └── logs/
+│  
 │
 ├── main.py
 ├── requirements.txt
@@ -121,11 +121,10 @@ pip install -r requirements.txt
 
 ### ▶️ How to Run
     First Activate virtual Enviornment
-        NOTE : Commands to activate venv environment
+        Commands to activate venv environment
                     1) for gemini =>  venv_gemini\Scripts\activate
-                    2) for instagram =>  venv_instagrapi\Scripts\activate
-                Commands to deactivate venv environment
-                    Type deactivate in teminal
+        Commands to deactivate venv environment
+                     Type deactivate in teminal
     python main.py
         This will:
             Generate text + image + voice
@@ -136,6 +135,11 @@ pip install -r requirements.txt
     #### Version Confilict
         ![App Screenshot](./ImagesForREADME.md/debug1.png)
         ![App Screenshot](./ImagesForREADME.md/debug2.png)
+        NOTE : Commands to activate venv environment
+                    1) for gemini =>  venv_gemini\Scripts\activate
+                    2) for instagram =>  venv_instagrapi\Scripts\activate
+                Commands to deactivate venv environment
+                    Type deactivate in teminal
 ### ⏰ Automating Daily Posting
 You can use a cron job or APScheduler to run main.py every day:
         Example using cron (Linux/macOS):
