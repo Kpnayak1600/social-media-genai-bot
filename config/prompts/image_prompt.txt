@@ -1,23 +1,47 @@
-Randomly select a Hindu deity from: Lord Shiva, Lord Vishnu, Lord Krishna, Goddess Durga, Lord Ganesha.
+Prompt: 
+"A vibrant and divine 2D animation-style depiction Deva King Indra, adorned in divine attire, sits majestically atop his enormous white elephant, Airavata. Airavata is carelessly trampling a sacred, fragrant flower garland underfoot. Facing them, the sage Durvasa stands, his eyes blazing with fury, his face contorted in righteous anger. Indra's expression is one of sudden fear and dawning regret. In the background, the once vibrant celestial realm of Swargaloka appears to be subtly dimming, losing its luster."
+Key elements: Indra, Airavata, trampled garland, enraged Durvasa, fearful Indra, fading Swargaloka. create image
 
-Create a vibrant and divine 2D animation-style illustration of the chosen deity. Make the image spiritually uplifting, visually rich, and artistically detailed — similar to sacred posters or scenes from animated Indian mythological shows.
+Prompt: 
+"A vibrant and divine 2D animation-style depiction A group of weakened and desperate Devas, their divine garments and ornaments appearing dull and faded, kneel on the shores of the milky Kshirasagara (Ocean of Milk). Their faces are etched with deep concern and despair. They are offering fervent prayers with folded hands to Lord Vishnu, who is calmly reposing on the coils of the great serpent Sheshnag in the midst of the ocean. Vishnu's face is serene and compassionate. The atmosphere conveys a mix of profound sadness and a glimmer of desperate hope."
+Key elements: Weakened Devas, worried expressions, Kshirasagara, Vishnu on Sheshnag, praying Devas, atmosphere of despair and hope.
 
-Include:
-- Traditional attire, glowing ornaments, radiant divine aura.
-- Symbolic features based on the selected deity:
-    - Shiva: trident, crescent moon, snake, Himalayas, tiger skin.
-    - Vishnu: chakra, conch, Garuda, golden crown, cosmic ocean.
-    - Krishna: flute, peacock feather, cows, Yamuna river, moonlight.
-    - Durga: tiger/lion, multiple arms with weapons, slaying a demon.
-    - Ganesha: modak, mouse, lotus, under a banyan tree or in a mandir.
+Prompt: 
+"A vibrant and divine 2D animation-style depiction Inside a grand celestial assembly hall, Devas and Asuras stand facing each other across a divide. The Devas' faces show a forced resignation and a hint of desperation, while the Asuras' faces are marked by greed, suspicion, and arrogance. In the center, Lord Vishnu stands, emanating divine light, mediating between the two factions and proposing the alliance with the promise of Amrita. The Asura king Bali stands prominently among his powerful Asura warriors. The scene captures a tense but crucial negotiation, filled with underlying mistrust."
+Key elements: Devas, Asuras, Bali, Lord Vishnu, tense negotiation, expressions of greed and mistrust.
 
-Background:
-- Use a divine setting — glowing clouds, full moon, sparkling stars, riverbanks, celestial mountains.
-- Add supportive animals or birds like swans, cows, lions, peacocks.
+Prompt: 
+"A vibrant and divine 2D animation-style depiction The colossal Mount Mandara, its peak touching the clouds, is being carried through the sky by the mighty Garuda, who holds it firmly in his beak and talons. Below, on the ground, the Devas and Asuras look up with a mix of awe and anticipation. The vast Kshirasagara stretches out, its blue waters calm, awaiting the monumental task to come."
+Key elements: Gigantic Mount Mandara, Garuda flying, Kshirasagara, awestruck Devas and Asuras.
 
-Style:
-- High-quality, richly colored 2D animation.
-- Use divine realism with a soft glowing palette.
-- Add atmospheric lighting and subtle magical elements like sparkles or aura rings.
+Prompt: 
+"A vibrant and divine 2D animation-style depiction Mount Mandara stands firmly in the center of the Kshirasagara, with the immense body of Naga Raja Vasuki wrapped tightly around it. On one side, the powerful Asuras grasp Vasuki's venomous head, their faces showing arrogance and a sense of superiority. On the other side, the Devas hold Vasuki's tail, their expressions a mix of grim determination and slight apprehension. Lord Vishnu observes the scene from a distance, His presence subtle but watchful. The atmosphere is charged with tension and the beginning of immense effort."
+Key elements: Mount Mandara, Vasuki (head and tail), Asuras, Devas, Lord Vishnu, tense atmosphere, beginning of churning.
 
-Make each image look unique and soul-touching.
+Prompt:
+"A vibrant and divine 2D animation-style depiction The colossal Mount Mandara is sinking rapidly into the turbulent waters of the Kshirasagara, causing panic among the Devas and Asuras who are pulling on Vasuki. They are crying out in fear and despair. Suddenly, from beneath the sinking mountain, Lord Vishnu emerges in the form of a gigantic Kurma (tortoise). The Kurma's massive shell firmly supports the mountain, preventing it from sinking further, allowing the churning to resume. Large, frothing waves are crashing around the scene."
+Key elements: Sinking Mount Mandara, panicking Devas and Asuras, gigantic Kurma avatar, supporting the mountain, turbulent waves.
+
+Prompt: 
+"A vibrant and divine 2D animation-style depiction From the churning Kshirasagara, a thick, dark, and noxious Halahala poison is erupting, spreading like a suffocating cloud across the celestial realms. Devas and Asuras are recoiling in terror, some collapsing, as the air becomes toxic. In the foreground, Lord Shiva appears with a serene yet resolute expression. He is shown cupping the terrifying black poison in his hands and drinking it. His throat is visibly turning blue as he holds the poison there. All Devas and Asuras watch Him with a mixture of awe, gratitude, and immense relief."
+Key elements: Halahala poison (dark, smoky), terrified Devas and Asuras, Lord Shiva (turning Neelkanth), drinking poison, expressions of awe and gratitude.
+
+Prompt: 
+"A vibrant and dynamic scene depicting multiple divine treasures emerging simultaneously from the churning Kshirasagara. Include Kamadhenu (the wish-fulfilling cow), Airavata (the white elephant), Uchhaishravas (the seven-headed white horse), the radiant Kaustubha Mani (glowing brightly), the wish-granting Kalpavriksha (laden with blossoms), beautiful Apsaras dancing gracefully, the Moon (Chandra) ascending, and the resplendent Goddess Lakshmi, seated on a lotus, radiating beauty and prosperity. The atmosphere is filled with divine light, fragrance, and joy as Devas and Asuras watch in wonder."
+Key elements: Kamadhenu, Airavata, Uchhaishravas, Kaustubha Mani, Kalpavriksha, Apsaras, Chandra, Goddess Lakshmi, divine light, joyful expressions.
+
+Prompt: 
+"A vibrant and divine 2D animation-style depiction At the culmination of the Samudra Manthan, Lord Dhanvantari, the divine physician and progenitor of Ayurveda, emerges gracefully from the Kshirasagara. He holds a golden Amrita Kalasha (pot of nectar) in his hands, from which a soft, golden light emanates. His face is serene and wise. Both Devas and Asuras are looking at the Amrita Kalasha with intense eagerness and palpable greed. The atmosphere is charged with extreme anticipation and tension."
+Key elements: Lord Dhanvantari, glowing Amrita Kalasha, eager Devas and Asuras, expressions of greed and anticipation.
+
+Prompt: 
+"A vibrant and divine 2D animation-style depiction Lord Vishnu is in His enchanting Mohini avatar, appearing as an exquisitely beautiful and captivating woman. She is gracefully distributing the Amrita. Asuras are seated in a line, completely mesmerized by Mohini's beauty, their faces showing infatuation. They are oblivious that Mohini is only serving the Amrita to the Devas, who are drinking it with expressions of relief and quiet triumph. The scene highlights the deception through beauty."
+Key elements: Mohini avatar, mesmerized Asuras, Devas drinking Amrita, deceptive distribution, beauty and enchantment.
+
+Prompt: 
+"A vibrant and divine 2D animation-style depiction The beautiful Mohini avatar is subtly transforming back into Lord Vishnu, who is now wielding His formidable Sudarshana Chakra. The Asura Rahu, who had disguised himself as a Deva and consumed a portion of the Amrita, is shown in the act of being decapitated by the rapidly spinning Sudarshana Chakra. Rahu's severed head and body are still alive due to the nectar. Chandra Deva and Surya Deva are standing nearby, witnessing the dramatic event."
+Key elements: Lord Vishnu (transforming from Mohini), Sudarshana Chakra, Rahu being decapitated, immortal Rahu and Ketu (head and body), Chandra and Surya Deva.
+
+Prompt: 
+"A vibrant and divine 2D animation-style depiction The Devas, now empowered and immortal from drinking the Amrita, are fiercely battling and decisively defeating the Asuras. The Asuras are shown in disarray, retreating in fear and chaos towards Patala Loka (the underworld). Swargaloka, in the background, is once again shining brightly with its divine light and restored splendor. The Devas' faces are filled with triumph and joyous celebration."
+Key elements: Powerful Devas, defeated Asuras, retreating to Patala Loka, restored Swargaloka, expressions of triumph and joy.

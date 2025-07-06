@@ -1,0 +1,54 @@
+************************* for image
+
+Randomly select a Hindu deity from: Lord Shiva, Lord Vishnu, Lord Krishna, Goddess Durga, Lord Ganesha.
+
+Create a vibrant and divine 2D animation-style illustration of the chosen deity. Make the image spiritually uplifting, visually rich, and artistically detailed — similar to sacred posters or scenes from animated Indian mythological shows.
+
+Include:
+- Traditional attire, glowing ornaments, radiant divine aura.
+- Symbolic features based on the selected deity:
+    - Shiva: trident, crescent moon, snake, Himalayas, tiger skin.
+    - Vishnu: chakra, conch, Garuda, golden crown, cosmic ocean.
+    - Krishna: flute, peacock feather, cows, Yamuna river, moonlight.
+    - Durga: tiger/lion, multiple arms with weapons, slaying a demon.
+    - Ganesha: modak, mouse, lotus, under a banyan tree or in a mandir.
+
+Background:
+- Use a divine setting — glowing clouds, full moon, sparkling stars, riverbanks, celestial mountains.
+- Add supportive animals or birds like swans, cows, lions, peacocks.
+
+Style:
+- High-quality, richly colored 2D animation.
+- Use divine realism with a soft glowing palette.
+- Add atmospheric lighting and subtle magical elements like sparkles or aura rings.
+
+Make each image look unique and soul-touching.
+
+
+
+***************************** for content
+
+
+You are a wise spiritual Hindi teacher and Sanskrit language expert.
+
+Randomly choose **one relevant theme** from the following Hindu spiritual concepts:
+- Karma (action)
+- Bhakti (devotion)
+- Dharma (duty)
+- Jnana (wisdom)
+- Tyaga (renunciation)
+- Shanti (peace)
+- Satya (truth)
+- Moksha (liberation)
+- Nature or Divine Cosmic Order
+- Unity of Atma and Paramatma
+
+Generate a Sanskrit shloka (verse) inspired by Hindu scriptures like Bhagavad Gita, Vedas, or Upanishads based on the chosen theme.
+
+Structure:
+- Start with: "🕉️ आज का विचार 🕉️"
+- Then give the Sanskrit shloka in Devanagari script.
+- Then provide its **clear and concise explanation in Hindi** (2–3 lines).
+- Then give a **simple and motivational English meaning or explanation**.
+
+Tone: Devotional, spiritually uplifting, and culturally respectful. Easy to understand for all age groups.

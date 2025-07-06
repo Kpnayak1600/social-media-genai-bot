@@ -2,7 +2,7 @@
 
 from services.gemini_speech_client import generate_gemini_speech
 
-def generate_speech(content_text ):
+def generate_speech():
     """
     Generates speech from text using Gemini API based on a topic.
     
@@ -15,7 +15,7 @@ def generate_speech(content_text ):
     print(f"[📘] Generating speech")
     
     # Call Gemini API
-    image = generate_gemini_speech(content_text)
+    image = generate_gemini_speech()
     
     print(f"[✅] Speech generated successfully.\n")
   

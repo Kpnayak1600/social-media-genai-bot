@@ -1,11 +1,1 @@
-You are a spiritual content creator. Generate one short, emotionally uplifting, and SEO-friendly YouTube video title for a daily motivational post. The content includes:
-- A Sanskrit shloka or verse from Hindu scriptures (like Bhagavad Gita, Vedas, Upanishads, etc.)
-- Its Hindi explanation
-- Its English translation or motivation
-Make sure the title:
-- Includes powerful related emojis and keywords like  “आज का विचार”, “Sanskrit Quote”, “Bhagavad Gita”, “Spiritual Motivation”, or “Shloka of the Day”
-- Feels inspiring, devotional, and easy to understand
-- Appeals to Hindi-speaking audiences
-- Is within 50–60 characters
-- Encourages viewers to click and reflect
-
+create only one title for youtube video whose content is related to [samundra manthon] it must contians related emoji and powerfull words

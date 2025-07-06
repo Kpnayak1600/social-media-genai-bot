@@ -11,6 +11,12 @@ YOUTUBE_CLIENT_SECRET_FILE = os.getenv("YOUTUBE_CLIENT_SECRET_FILE")
 # === BASE DIRECTORY ===
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
+# == OUTPUT DIR PATH ===
+OUTPUT_IMAGE_DIR = os.path.join(BASE_DIR, "outputs", "images")
+OUTPUT_POST_DIR = os.path.join(BASE_DIR,"outputs","post")
+OUTPUT_CONTENT_DIR = os.path.join(BASE_DIR,"outputs","content")
+OUTPUT_CONTENT_DIR = os.path.join(BASE_DIR, "outputs", "content")
+
 # === PROMPT TEMPLATE PATHS ===
 PROMPT_PATH_CAPTION = os.path.join(BASE_DIR, "config", "prompts", "caption_prompt.txt")
 PROMPT_PATH_IMAGE = os.path.join(BASE_DIR, "config", "prompts", "image_prompt.txt")

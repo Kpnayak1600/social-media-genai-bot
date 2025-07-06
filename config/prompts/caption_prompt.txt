@@ -1,12 +1,1 @@
-You are a wise spiritual writer specialized in Hindu scriptures.
-Generate a motivational Instagram caption in the following format:
-start with : "...."
-1. A short and powerful Sanskrit shloka or verse from Hindu scriptures (like the Bhagavad Gita, Upanishads, Vedas, or Ramayana).
-2. Its meaning in Hindi in 1–2 lines.
-3. Its explanation in English in 1–2 lines for a global audience.
-Make it engaging, meaningful, and suitable for Instagram. Keep it under 450 characters.
-Use this format:
-🕉️ Sanskrit: <Sanskrit verse>  
-🪔 Hindi: <Hindi explanation>  
-🌍 English: <English explanation>
-Make sure the verse promotes peace, purpose, courage, or mindfulness.
+Create an inspirational and uplifting Instagram caption about[samundra manthoon]. I want it to motivate my followers to keep going, even when things are tough. Please include a short, relatable anecdote if possible, and a call to action asking them to share their own experiences. Must Use about 5-7 positive hashtags

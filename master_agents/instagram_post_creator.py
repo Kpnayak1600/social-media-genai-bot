@@ -5,7 +5,7 @@ from services.video_creator import create_video_from_image_and_audio
 from config.settings import PROMPT_PATH_CAPTION
 from config.settings import OUTPUT_IMAGE, OUTPUT_AUDIO
 
-def generate_instagram_caption(content: str) -> str:
+def generate_instagram_caption() -> str:
     """
     Generate an Instagram caption using Gemini API.
 
@@ -22,12 +22,12 @@ def generate_instagram_caption(content: str) -> str:
     with open(prompt_template_path, "r", encoding="utf-8") as f:
         prompt_template = f.read()
 
-    prompt = prompt_template.replace("{content}", content)
-    caption = generate_gemini_content(prompt)
+    #prompt = prompt_template.replace("{content}", content)
+    caption = generate_gemini_content(prompt_template)
     return caption
 
 
-def create_instagram_post(content: str) -> dict:
+def create_instagram_post() -> dict:
     """
     Orchestrates the creation of all Instagram post assets.
 
@@ -44,10 +44,12 @@ def create_instagram_post(content: str) -> dict:
     # 2. Generate speech/audio
     audio_path = OUTPUT_AUDIO
     # 3. Generate caption
-    caption = generate_instagram_caption(content)
+    caption = generate_instagram_caption()
+    #print(caption)
 
     # 4. Combine into video
-    create_video_from_image_and_audio(image_path, audio_path)
+    #create_video_from_image_and_audio(image_path, audio_path)
+    create_video_from_image_and_audio(audio_path)
 
     print("[✅] Post creation complete.")
 

@@ -31,7 +31,20 @@ def generate_content() -> str:
     formatted_prompt = prompt_template.format()
 
     # Generate content using Gemini API
-    content = generate_gemini_content(formatted_prompt)
+    generated_text  = generate_gemini_content(formatted_prompt)
 
     print("[✅] Content generated successfully.\n")
+
+    # Ensure output directory exists
+    os.makedirs(OUTPUT_CONTENT_DIR, exist_ok=True) 
+
+    # Create filename with timestamp
+    filename = f"content.txt"
+    filepath = os.path.join(OUTPUT_CONTENT_DIR, filename)
+
+    # Write content to file
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(generated_text)
+
+    print(f"[✅] Content saved to {filepath}")
     return content.strip()
